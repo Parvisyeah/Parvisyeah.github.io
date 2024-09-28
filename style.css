@@ -1,0 +1,38 @@
+.profile-photo{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.icon-profile{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text{
+    text-align: center;
+}
+
+.text-box{
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 10%;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.date{
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
